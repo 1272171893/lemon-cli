@@ -1,6 +1,5 @@
 /yarn.lock
 /node_modules
-/lib
 /dist
 /coverage
 /.nyc_output
